@@ -1,0 +1,22 @@
+body{
+
+    font-family: 'Play', sans-serif;
+    font-size:15px;
+}
+/*    font-family: 'Lobster', cursive;*/
+p{
+    font-size:20px;
+}
+p a{
+    font-family: 'Lobster', cursive;
+}
+p a:hover{
+    text-decoration:none;
+    color:black;
+}
+h2{
+    font-family: 'Lobster', cursive;
+}
+.bangla{
+    font-weight:700;
+}
